@@ -28,3 +28,15 @@ const posts = [
     }
 ]
 
+
+let heart1 = document.getElementById('heart1');
+let like1 = document.getElementById("like-1");
+
+
+heart1.addEventListener("click", function() {
+
+    for(let i = 21; i < 2000; i++){
+    
+    }
+    
+})
